@@ -6,3 +6,4 @@ echo The counter is $COUNTER
 let COUNTER=$COUNTER+1
 done
 echo "Updated script in feature branch"
+echo "Changes for Pull Request"
